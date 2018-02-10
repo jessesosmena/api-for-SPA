@@ -10,7 +10,7 @@ Qty: {{ $content['quantity'] }}  Total: £{{ $content['amount'] }}
 Receipt from stripe will be sent to you later.
 
 
-@component('mail::button', ['url' => 'http://localhost:8080/#/'])
+@component('mail::button', ['url' => 'https://limitless-caverns-29210.herokuapp.com/index.html#/'])
 Button Text
 @endcomponent
 

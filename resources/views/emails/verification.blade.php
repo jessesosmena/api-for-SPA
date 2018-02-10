@@ -103,7 +103,7 @@ $style = [
                                                             $actionColor = 'button--blue';
                                                         ?>
 
-                                                        <a href="{{ url('http://localhost:8080/#/verify/'.$user->email_token) }}"
+                                                        <a href="{{ url('https://limitless-caverns-29210.herokuapp.com/index.html#/verify/'.$user->email_token) }}"
                                                             style="{{ $fontFamily }} {{ $style['button'] }} {{ $style[$actionColor] }}"
                                                             class="button"
                                                             target="_blank">
