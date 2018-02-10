@@ -5,7 +5,7 @@ Order has been shipped.
 
 Thank you {{ $content['name'] }} for purchasing our products 
 
-QTY: {{ $content['quantity'] }}  Total: £{{ $content['amount'] }}
+Qty: {{ $content['quantity'] }}  Total: £{{ $content['amount'] }}
 
 Receipt from stripe will be sent to you later.
 
