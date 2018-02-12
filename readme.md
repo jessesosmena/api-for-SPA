@@ -16,12 +16,12 @@ Clone the repository
 cd to the directory
 configure the .env file, change the Database connections and Mail driver credentials 
 
-bash
+``` bash 
 php artisan migrate 
 ## used to add new tables, columns, or indexes to your database
 php artisan serve 
 ## Laravel development server started on http://localhost:8000. Now you can point your browser to http://localhost:8000
-
+```
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
