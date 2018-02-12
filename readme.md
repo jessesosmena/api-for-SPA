@@ -1,3 +1,29 @@
+Demo: https://limitless-caverns-29210.herokuapp.com/index.html#/
+
+A RESTful API in Laravel 5
+
+Serve as a api-server for Vue.js-e-commerce-Laravel-rest/frontend.
+
+php 5.6.4
+laravel/framework 5.4
+laravel/passport 4.0
+stripe/stripe-php 5.7
+
+
+How to use it
+
+Clone the repository 
+cd to the directory
+configure the .env file, change the Database connections and Mail driver credentials 
+
+git bash
+php artisan migrate 
+## used to add new tables, columns, or indexes to your database
+
+php artisan serve 
+## Laravel development server started on http://localhost:8000. Now you can point your browser to http://localhost:8000
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
