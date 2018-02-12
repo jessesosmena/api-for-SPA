@@ -5,15 +5,15 @@ A RESTful API in Laravel 5
 Serve as a api-server for Vue.js-e-commerce-Laravel-rest/frontend.
 
 php 5.6.4
-laravel/framework 5.4
-laravel/passport 4.0
+laravel/framework 5.4,
+laravel/passport 4.0,
 stripe/stripe-php 5.7
 
 
 How to use it
 
-Clone the repository 
-cd to the directory
+Clone the repository, 
+cd to the directory,
 configure the .env file, change the Database connections and Mail driver credentials 
 
 ``` bash 
