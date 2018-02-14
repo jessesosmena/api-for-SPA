@@ -1,5 +1,3 @@
-Demo: https://limitless-caverns-29210.herokuapp.com/index.html#/
-
 A RESTful API in Laravel 5
 
 Serve as a api-server for Vue.js-e-commerce-Laravel-rest/frontend.
